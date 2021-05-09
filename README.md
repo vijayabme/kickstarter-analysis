@@ -14,12 +14,11 @@ The data is large and is causing the excel to crash after a certain point.  So, 
 
 ## Results
 ### Results for outcomes based on Launch date
-Based on launch date May June and July are the most successful months for theater fundraisers. 
-During the end of the year and the beginning its dropping. 
+-Based on launch date May June and July are the most successful months for theater fundraisers. 
+-During the end of the year and the beginning its dropping. 
 Louise might be more successful if she launches her fundraiser during these months.
 
 ![image](https://user-images.githubusercontent.com/83103493/117580757-5f06a080-b0ae-11eb-8cc9-97241b026402.png)
-
 
 
 ### Results for Outcomes based on Goals
@@ -28,10 +27,10 @@ Based on Goals the success rate was higher for low budget fundraisers uptil 5000
 
 
 ### Limitations of the dataset
-The data has a category of theater and a subcategory called plays. We know the success rate for plays but we do not know the genre of the successful plays. If we know which genre plays are more successful whether its comedy or romance or thrillers etc., we can figure out even more accurately how successful Louise might be in raising money for her play.
+The data has a category of theater and a subcategory called plays but there is no genre. We know the success rate for plays overall, but we do not know the genre of the successful plays. If we know which genre plays are more successful whether its comedy or romance or thrillers etc., we can figure out even more accurately how successful Louise might be in raising money for her play.
 
 ### Possible tables and graphs 
-We can see if the play being a staff pick is more successful. For this I used countifs to count the successful plays based on whether it’s a staff pick or not. The play being a staff pick is making it 30% more succesful. 
+We can see if the play being a staff pick is more successful. For this I used countifs to count the successful plays based on whether it’s a staff pick or not. The play being a staff pick is making it 30% more succesful. So if Louises play is a staff pick she will have higher 
 
 Also we can look at the box and whisker plots for pledged and goal amounts for the plays subcategory in US. 
 
