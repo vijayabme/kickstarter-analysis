@@ -24,7 +24,7 @@ Louise might be more successful if she launches her fundraiser during these mont
 ### Results for Outcomes based on Goals
 Based on Goals the success rate was higher for low budget fundraisers uptil 5000$. But there are some fundraisers between 35+ to 45k which are also successful. Louise might be more successful if her budget is below 5000$. 
 ![image](https://user-images.githubusercontent.com/83103493/117580784-7776bb00-b0ae-11eb-9174-74f3f700d374.png)
-
+![image](Outcomes_vs_Goals.png)
 
 ### Limitations of the dataset
 The data has a category of theater and a subcategory called plays but there is no genre. We know the success rate for plays overall, but we do not know the genre of the successful plays. If we know which genre plays are more successful whether its comedy or romance or thrillers etc., we can figure out even more accurately how successful Louise might be in raising money for her play.
