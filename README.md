@@ -31,6 +31,6 @@ The data has a category of theater and a subcategory called plays but there is n
 
 ### Possible tables and graphs 
 We can see if the play being a staff pick is more successful. For this I used countifs to count the successful plays based on whether it’s a staff pick or not. The play being a staff pick is making it 30% more succesful. So if Louises play is a staff pick she will have higher 
-
+![image](Outcomes_vs_Staffpick.png)
 Also we can look at the box and whisker plots for pledged and goal amounts for the plays subcategory in US. Louise's budget of 10k is below the outlier range of the pledged amount and its also below the mean pledged amount of 11k
 ![image](boxandwhiskers_US_plays.png)
