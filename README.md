@@ -18,12 +18,11 @@ The data is large and is causing the excel to crash after a certain point.  So, 
 -During the end of the year and the beginning its dropping. 
 Louise might be more successful if she launches her fundraiser during these months.
 
-![image](https://user-images.githubusercontent.com/83103493/117580757-5f06a080-b0ae-11eb-8cc9-97241b026402.png)
-
+![image](Theater_Outcomes_vs_Launch.png)
 
 ### Results for Outcomes based on Goals
 Based on Goals the success rate was higher for low budget fundraisers uptil 5000$. But there are some fundraisers between 35+ to 45k which are also successful. Louise might be more successful if her budget is below 5000$. 
-![image](https://user-images.githubusercontent.com/83103493/117580784-7776bb00-b0ae-11eb-9174-74f3f700d374.png)
+
 ![image](Outcomes_vs_Goals.png)
 
 ### Limitations of the dataset
